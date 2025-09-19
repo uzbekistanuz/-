@@ -1,1 +1,228 @@
-playlist uz
+#EXTM3U
+#EXTINF:-1 tvg-id="cinerama" tvg-name="gold tv" tvg-logo="https://i.imgur.com/0WgM2Xk.png" group-title="Kino", Cinerama
+https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="afrosport" tvg-name="Afrosport" tvg-logo="https://i.imgur.com/9fPTCj1.png" group-title="Sport", Afrosport
+https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
+
+#EXTINF:-1 tvg-id="alkass5" tvg-name="Alkass 5" tvg-logo="https://i.imgur.com/dD5w3rV.png" group-title="Sport", Alkass 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5azq/master.m3u8
+
+#EXTINF:-1 tvg-id="bekprime" tvg-name="BEK Prime" tvg-logo="https://i.imgur.com/t8X1xZm.png" group-title="Sport", BEK Prime
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sporttvbg" tvg-name="Sport TV (BG)" tvg-logo="https://i.imgur.com/2XjN7Fn.png" group-title="Sport", Sport TV (BG)
+http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="multivisionsports" tvg-name="Multivision Sports" tvg-logo="https://iptv-org.github.io/channels/gt/MultivisionSports/logo.png" group-title="Sports", Multivision Sports
+https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8
+
+#EXTINF:-1 tvg-id="dazncombat" tvg-name="DAZN Combat" tvg-logo="https://i.imgur.com/uTj4G2P.png" group-title="Sport", DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="saransport263" tvg-name="Saran Sport 263" tvg-logo="https://i.imgur.com/tWnWbTw.png" group-title="Sport", Saran Sport 263
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+
+#EXTINF:-1 tvg-id="fubosports" tvg-name="Fubo Sports" tvg-logo="https://i.imgur.com/rkEoQn1.png" group-title="Sport", Fubo Sports
+https://livetv-fa.tubi.video/fubo/master.m3u8
+
+#EXTINF:-1 tvg-id="tj-sport" tvg-name="TeleRadioCom TJ" tvg-logo="https://i.imgur.com/NR8QjZJ.png" group-title="Sport", TeleRadioCom TJ
+https://live.teleradiocom.tj/8/3m.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="abntv" tvg-name="ABN TV Sports" tvg-logo="https://i.imgur.com/U7rbNf5.png" group-title="Sport", ABN TV Sports
+https://spstr.abntv.live/hls/psstream.m3u8
+
+#EXTINF:-1 tvg-id="vglive" tvg-name="VG Live SK" tvg-logo="https://i.imgur.com/vpMYEoX.png" group-title="Sport", VG Live SK
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+
+#EXTINF:-1 tvg-id="raisport1" tvg-name="Rai Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rai_Sport_-_Logo_2019.svg/200px-Rai_Sport_-_Logo_2019.svg.png" group-title="Sport", Rai Sport 1
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-id="realmadridtv" tvg-name="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Real_Madrid_CF.svg/120px-Real_Madrid_CF.svg.png" group-title="Sport", Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="redbulltv" tvg-name="Red Bull TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Red_Bull_TV_logo.svg/200px-Red_Bull_TV_logo.svg.png" group-title="Sport", Red Bull TV (Sports)
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teledeporte" tvg-name="Teledeporte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Teledeporte.svg/200px-Teledeporte.svg.png" group-title="Sport", Teledeporte (Spain)
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+
+#EXTINF:-1 tvg-id="glewedtv" tvg-name="GlewedTV Sports" tvg-logo="https://i.imgur.com/fqQzqz3.png" group-title="Sport", GlewedTV Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tw-sport2" tvg-name="Telewebion Sport 2" tvg-logo="https://i.imgur.com/mOaKhGE.png" group-title="Sport", Telewebion Sport 2
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="tw-sport3" tvg-name="Telewebion Sport 3" tvg-logo="https://i.imgur.com/QrKJ2Wr.png" group-title="Sport", Telewebion Sport 3
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+
+#EXTINF:-1 tvg-id="tvsboxing" tvg-name="TVS Boxing" tvg-logo="https://i.imgur.com/y0ZXl6t.png" group-title="Sport", TVS Boxing
+https://rpn.bozztv.com/gusa/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="varzesh" tvg-name="varzesh IR Sport" tvg-logo="https://i.imgur.com/8jZlhb9.png" group-title="Sport", Lenz IR Sport
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+
+
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",Badakhshon (576p)
+https://live.teleradiocom.tj/11/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",Dushanbe HD (1080p)
+https://live.teleradiocom.tj/7/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",Jahonnamo (1080p)
+https://live.teleradiocom.tj/4/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Sport",Futbol (1080p)
+https://live.teleradiocom.tj/8/3m.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",Khatlon (576p)
+https://live.teleradiocom.tj/10/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",TMT (1080p)
+https://live.teleradiocom.tj/9/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",TV Bahoriston (1080p)
+https://live.teleradiocom.tj/3/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",TV Kulob (576p)
+https://live.teleradiocom.tj/12/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",TV Safina (1080p)
+https://live.teleradiocom.tj/2/3m.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",TV Sinamo (1080p)
+https://live.teleradiocom.tj/6/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",TV Sugd (1080p)
+https://live.teleradiocom.tj/14/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TJ" tvg-logo="" group-title="Undefined",Tajikistan (1080p)
+https://live.teleradiocom.tj/1/3m.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="Undefined",Altyn Asyr TV
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Undefined",Arkadag TV (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Undefined",Arkadag TV (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Asgabat-webtvonlive-com.jpg" group-title="Undefined",Asgabat TV
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Miras-webtvonlive-com.jpg" group-title="Undefined",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Undefined",Miras (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch003.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Undefined",Miras (406p) [Not 24/7]
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="Undefined",TM | Türkmenistan TV,Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="TM" tvg-logo="" group-title="Sport",Türkmenistan Sport
+https://alpha.tv.online.tm/hls/ch004_720/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="Undefined",Türkmenistan TV
+http://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://tdh.gov.tm/static/logo/7.png" group-title="Undefined",Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_400/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TM" tvg-logo="http://webtvonlive.com/wp-content/uploads/Yaslyk-webtvonlive-com.jpg" group-title="Undefined",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8?checkedby:iptvcat.com
+a
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Dasturxon TV (576p)
+https://stream8.cinerama.uz/1206/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Dunyo bo'ylab (1080p)
+https://stream8.cinerama.uz/1006/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",MY5
+https://st.my5.media/hls/hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",MY5 (576p)
+https://stream8.cinerama.uz/1217/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Milliy (1080p)
+https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",0oʻʼʼʼʼʼʼʼʼʼ (576p)
+https://stream8.cinerama.uz/1001/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",O'zbekiston 24 (1080p)
+https://stream8.cinerama.uz/1011/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Qaraqalpaqstan (720p)
+https://stream8.cinerama.uz/1467/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Renessans TV (576p)
+https://stream8.cinerama.uz/1221/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Sevimli TV (1080p)
+https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Toshkent (576p)
+https://stream8.cinerama.uz/1003/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",UzReport TV (1080p)
+https://stream8.cinerama.uz/1015/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Yoshlar (1080p)
+https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8?a
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",viju History
+http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Undefined",viju TV1000
+http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="UZ" tvg-logo="" group-title="Sport",viju+ Sport
+http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ekran_movies" tvg-name="Ekran Movies" tvg-logo="https://i.imgur.com/example_logo_ekran_movies.png" group-title="Movies", Ekran Movies
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+
+#EXTINF:-1 tvg-id="gcinema" tvg-name="GCinema" tvg-logo="https://i.imgur.com/example_logo_gcinema.png" group-title="Movies", GCinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="kino24ru" tvg-name="Kino24Ru" tvg-logo="https://i.imgur.com/example_logo_kino24ru.png" group-title="Kino", Kino24Ru
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="live_stream" tvg-name="Live Stream" tvg-logo="https://i.imgur.com/example_logo_live.png" group-title="Live", Live Stream
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF:-1 tvg-id="newfhls_stream" tvg-name="NewF HLS Stream" tvg-logo="https://i.imgur.com/example_logo_newfhls.png" group-title="Stream", NewF HLS Stream
+https://newfhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="pluto_channel_5cb0cae7" tvg-name="Pluto Channel 2" tvg-logo="https://i.imgur.com/example_logo_pluto2.png" group-title="TV", Pluto Channel 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientDime=08c&clientDime=08&de-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+
+#EXTINF:-1 tvg-id="cinehls_stream" tvg-name="CineHLS" tvg-logo="https://i.imgur.com/example_logo_cinehls.png" group-title="Movies", CineHLS
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="slonehls_stream" tvg-name="SloneHLS" tvg-logo="https://i.imgur.com/example_logo_slonehls.png" group-title="Stream", SloneHLS
+https://slonehls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="t2movies" tvg-name="T2 Movies" tvg-logo="https://i.imgur.com/example_logo_t2movies.png" group-title="Movies", T2 Movies
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Evrokino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Evrokino.png" group-title="Kino", Evrokino
+http://31.148.48.15/Evrokino/index.m3u8
+
+#EXTINF:-1 tvg-id="kinopokaz" tvg-name="Kinopokaz" tvg-logo="https://i.imgur.com/example_logo_kinopokaz.png" group-title="Kino", Kinopokaz
+http://31.148.48.15/Kinopokaz/index.m3u8
+
+#EXTINF:-1 tvg-id="kinotv_tuva" tvg-name="KinoTV Tuva" tvg-logo="https://i.imgur.com/example_logo_kinotv_tuva.png" group-title="Movies", KinoTV Tuva
+https://vod.tuva.ru/kinotv/index.m3u8
+
+#EXTINF:-1 tvg-id="catcast_41596" tvg-name="CatCast Channel 41596" tvg-logo="https://i.imgur.com/example_logo_catcast41596.png" group-title="TV", CatCast Channel 41596
+https://v2.catcast.tv/content/41596/index.m3u8
+
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Mosfilm" tvg-logo="https://i.imgur.com/example_logo_mosfilm.png" group-title="Kino", Mosfilm
+http://178.217.72.66:8080/mosfilm/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="tele5_live" tvg-name="Tele5 Live" tvg-logo="https://i.imgur.com/example_logo_tele5_live.png" group-title="TV", Tele5 Live
+https://strm.hdtvizlecanli.com/live/tele5.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="ntv_russia" tvg-name="NTV" tvg-logo="https://logos.fandom.com/wiki/File:NTV_logo_2007.svg" group-title="TV", NTV
+https://strm.hdtvizlecanli.com/live/ntv.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="zdf_germany" tvg-name="ZDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ZDF_logo.svg/200px-ZDF_logo.svg.png" group-title="TV", ZDF
+https://strm.hdtvizlecanli.com/live/zdf.m3u8
+
+
+#EXTINF:-1 tvg-id="asvtv" tvg-name="ASVTV" tvg-logo="https://i.imgur.com/example_logo_asvtv.png" group-title="TV", ASVTV
+http://catchup.videoline.ru/asvtv/index.m3u8
