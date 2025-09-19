@@ -1,2 +1,1 @@
-# -
-live chanel
+uzb.m3u8
